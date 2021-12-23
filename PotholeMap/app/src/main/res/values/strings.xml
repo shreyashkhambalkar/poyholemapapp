@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PotholeMap</string>
     <string name="button">Button</string>
+    <string name="map_key" translatable="false">AIzaSyAwYdN1h_NHg0a7mXz9AFYn0ZF6TeQRAmI</string>
 </resources>
